@@ -8,7 +8,7 @@ binutils
 mt
 ```
 
-i'd recommend using [scoop](scoop.sh) to install gcc and binutils
+i'd recommend using [scoop](https://scoop.sh) to install gcc and binutils
 
 mt can be obtained from [here](https://github.com/eladkarako/mt)
 
