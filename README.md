@@ -1,5 +1,5 @@
 # why
-what's the point
+this pretty much justs trashes `HKLM\Software`, haven't found a good use for it though
 
 dependencies:
 ```
@@ -8,7 +8,7 @@ binutils
 mt
 ```
 
-i'd recommend using [scoop](https://scoop.sh) to install gcc and binutils
+i'd recommend using [msys2](https://www.msys2.org/) to install gcc and binutils
 
 mt can be obtained from [here](https://github.com/mrpapersonic/mt)
 
